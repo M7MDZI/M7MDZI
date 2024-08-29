@@ -13,7 +13,7 @@ cout <<"💞️ I’m looking to collaborate on any thing" << endl ;
 else {
 cout << "no collaborate " << endl ;
 }
-<!--Just kiding-->
+//Just kiding
 cout << "📫 How to reach me www.linkedin.com/in/mohamad-al-zoubi-65b688325 " << endl ; 
  cout << "⚡ Fun fact:  i hate c++ " << endl ;
 }
